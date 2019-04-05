@@ -1,0 +1,27 @@
+GEO.display-label,Geography
+HC01_VC03,Estimate; SEX AND AGE - Total population
+HC01_VC04,Estimate; SEX AND AGE - Total population - Male
+HC03_VC04,Percent; SEX AND AGE - Total population - Male
+HC01_VC05,Estimate; SEX AND AGE - Total population - Female
+HC03_VC05,Percent; SEX AND AGE - Total population - Female
+HC01_VC93,Estimate; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC03_VC93,Percent; HISPANIC OR LATINO AND RACE - Total population - Hispanic or Latino (of any race)
+HC01_VC99,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC03_VC99,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - White alone
+HC01_VC100,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC03_VC100,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Black or African American alone
+HC01_VC101,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC03_VC101,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC01_VC102,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC03_VC102,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Asian alone
+HC01_VC103,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC03_VC103,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC01_VC104,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC03_VC104,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Some other race alone
+HC01_VC105,Estimate; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC03_VC105,Percent; HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races
+HC01_VC113,Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population
+HC01_VC114,Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male
+HC03_VC114,Percent; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Male
+HC01_VC115,Estimate; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female
+HC03_VC115,Percent; CITIZEN, VOTING AGE POPULATION - Citizen, 18 and over population - Female
